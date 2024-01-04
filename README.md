@@ -1,9 +1,31 @@
 <h1 align="center">Hi 👋, I'm Cellistia Putri</h1>
-<h3 align="center">saya adalah siswa dari</h3>
+<html>
 
-- asal sekolah **Smk 1 muhamadiyah yogyakarta**
+<body>
+    <form action="" method="POST">
+        <H1>Biodata</h1>
+        Name:<input type=text name="name1"><br><br>
+        Address: <textarea name=address> </textarea><br><br>
+        Age: <input type=text name=age><br><br>
+        Phone: <input type=text name=phone><br><br>
+        Email: <input type=text name=email><br><br>
+        Educational Qualification:<input type=text name=qualification><br>
+        <input type=submit value=Display><br><br>
+    </form>
+</body>
 
-<h3 align="left">Connect with me:</h3>
+</html>
+<?php
+if ($_POST) {
+    echo "<h1>Biodata</h1>";
+    echo "Name: " . $_POST["name1"] . "<br>";
+    echo "Address: " . $_POST["address"] . "<br>";
+    echo "Age: " . $_POST["age"] . "<br>";
+    echo "Mobile: " . $_POST["phone"] . "<br>";
+    echo "Email: " . $_POST["email"] . "<br>";
+    echo "Qualification: " . $_POST["qualification"] . "<br>";
+}
+?>
 <p align="left">
 </p>
 
