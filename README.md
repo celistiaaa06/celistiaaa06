@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cellistia Putri</h1>
-<h3 align="center">saya adalah siswa dari smk 1 muhamdiyah yogyakarta</h3>
+<h3 align="center">saya adalah siswa dari</h3>
 
 - asal sekolah **Smk 1 muhamadiyah yogyakarta**
 
