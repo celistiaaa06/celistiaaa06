@@ -2,10 +2,10 @@
   <hr>
         <article class="content">
             <p>
-                Hai semuanya, nama saya Febri Hidayan dan saya sering di panggil Febri. Saya suka dengan pemograman <em>web</em> sudah lama sejak tahun 2015 dan waktu itu baru memasuki <em>Laravel</em> 5 dan saya belum bisa pemograman apapun.
+                Hai semuanya, nama saya CELLISTIA PUTRI HASANUDDIN dan saya sering di panggil celis.
             </p>
             <p>
-                Singkat cerita, saya mengenal pemograman <em>web</em> dari seorang dosen STIE Riau Akbar juga seorang alumni S1 STMIK AMIK Riau yaitu Bapak Nori Sahrun. Beliaulah yang memperkenalkan <em>Laravel</em> dan <em>PHP</em> kepada saya, karena di waktu itu Laravel sangat populer hingga saat ini.
+                Singkat cerita, saya mengenal pemograman dari seorang teman di smp,Beliaulah yang memperkenalkan <em>Laravel</em> dan <em>PHP</em> kepada saya, karena di waktu itu Laravel sangat populer hingga saat ini.
             </p>
             <p>
                 Hingga saya tamat MTS Al-Huda Pekanbaru hingga masuk ke SMK Hasanah Pekanbaru barulah saya memulai untuk belajar pemograman <em>web</em> baik dari belajar <em>HTML</em>, <em>CSS</em>, <em>JavaScript</em>, <em>PHP</em>, <em>jQuery</em>, <em>Bootstrap</em>, dan masih banyak lagi.
